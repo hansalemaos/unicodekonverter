@@ -4,8 +4,6 @@
 
 ## pip install unicodekonverter
 
-The module automatically converts long paths to their short 8.3 equivalents
-
 
 ```python
     Converts Hexadecimal Unicode Codes with the prefix 'U+/u+' in text to Corresponding Characters
